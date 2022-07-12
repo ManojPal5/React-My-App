@@ -2,7 +2,7 @@ import useFetch from "./useFetch";
 import {useNavigate} from 'react-router-dom';
 
 const MatchesDetails = () => {
-    const { data, isPending, error } = useFetch ("http://localhost:8000/matches");
+    const { data, isPending, error } = useFetch ("https://my-json-server.typicode.com/ManojPal5/demo/matches");
     const navigate = useNavigate();
 
     const handleAddMatchDetail = ()=>{

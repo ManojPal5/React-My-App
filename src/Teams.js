@@ -1,7 +1,7 @@
 import useFetch from './useFetch';
 
 const TeamsDetails = () => {
-    const { data, isPending, error } = useFetch ("http://localhost:8000/teamsdetails");
+    const { data, isPending, error } = useFetch ("https://my-json-server.typicode.com/ManojPal5/demo/teamsdetails");
     const handleMouseEnter = (item, e)=>{
         console.log("Mouse enter in team " + item.id + " named as \"" + item.title +"\"")
         e.target.parentNode.classList.add("Highlighted");
