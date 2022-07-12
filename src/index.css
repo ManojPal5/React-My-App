@@ -11,3 +11,63 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.matchesdetails, .TeamsDetails{
+  font-family: 'Courier New';
+  margin: auto;
+  text-decoration:none;
+  text-align: left;
+}
+
+.content, .App{
+  padding-left:15%;
+  padding-right: 15%;
+  text-align: center;
+}
+
+.matchesdetails h2, .TeamsDetails h2{
+  text-align: center;
+}
+
+.matchdetail, .TeamDetail{
+  text-align: left;
+}
+
+.App {
+  text-align: center;
+}
+
+.App a{
+  color: white;
+  background-color:darkgreen;
+  display:inline-block;
+  text-decoration: none;
+  font-weight: bold;
+  margin: .5ex;
+  padding: 1ex;
+
+}
+
+.Highlighted{
+  background-color: rgb(40, 20, 220);
+  font-weight: bold;
+  color:aliceblue;
+}
+
+.FormMatchDetail{
+  max-width: 500px;
+  margin: 0, auto;
+  text-align: center;
+  border: 1px solid rgb(0, 0, 0);
+  margin-left: 12%;
+}
+
+.fteam, .steam{
+  display: block;
+  text-align: left;
+  margin-bottom: 5%;
+}
+
+.fteam label, .steam label{
+  width: 30px;
+}

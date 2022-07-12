@@ -1,0 +1,52 @@
+{
+    "teamsdetails":[
+        {
+            "title": "Targaryens",
+            "description": "Targayens team is the one of the three teams in Engineers Park. The team members of this team are 'Manoj Manager' and 'Manoj David Boon'.",
+            "id":1
+        },
+        {
+            "title":"Leninsters",
+            "description": "Leninsters team is the one of the three teams in Engineers Park. The team members of this team are 'Pramod Prayagraji' and 'Mountain man'.",
+            "id":2
+        },
+        {
+            "title": "Starks",
+            "description": "Starks team is the one of the three teams in Engineers Park. The team members of this team are 'Rajeev Narialpani' and 'Guru Ji'.",
+            "id":3
+        }
+    ],
+    "matches":[
+        {
+            "title": "Match between Targaryens and Lenninsters",
+            "description": "After a tight fight between both the teams, Targaryens managed to secure the win in this game.",
+            "id":1
+        },
+        {
+            "title":"Match between Leninsters and Rocks",
+            "description": "Rocks wins the match very easily.",
+            "id":2
+        },
+        {
+            "title": "Match between Lenninsters and Targaryens",
+            "description": "Poor Lenninsters worked very hard but unfortunately they could not secure the win in this game as Targaryens overshadowed the Lennisters in all the departments of the game.",
+            "id":3
+        },
+        {
+            "title": "Match between Targaryens and Lenninsters",
+            "description": "After a tight fight between both the teams, Targaryens managed to secure the win in this game.",
+            "id":4
+        },
+        {
+            "title":"Match between Leninsters and Rocks",
+            "description": "Rocks wins the match very easily.",
+            "id":5
+        },
+        {
+            "title": "Match between Lenninsters and Targaryens",
+            "description": "Poor Lenninsters worked very hard but unfortunately they could not secure the win in this game as Targaryens overshadowed the Lennisters in all the departments of the game.",
+            "id":6
+        }
+
+    ]
+}
